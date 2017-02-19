@@ -1,4 +1,4 @@
-package com.yubaraj.swing.examples;
+package com.yubaraj.image;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;

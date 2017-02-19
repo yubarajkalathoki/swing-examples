@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.yubaraj.swing.examples;
+package com.yubaraj.image;
 
-import com.yubaraj.swing.examples.db.DatabaseConnection;
+import com.yubaraj.database.DatabaseConnection;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;

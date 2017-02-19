@@ -1,5 +1,5 @@
 
-package com.yubaraj.swing.examples;
+package com.yubaraj.image;
 
 import java.io.File;
 import java.io.FileInputStream;

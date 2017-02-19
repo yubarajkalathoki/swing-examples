@@ -1,5 +1,5 @@
 
-package com.yubaraj.swing.examples.db;
+package com.yubaraj.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
