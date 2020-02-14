@@ -44,7 +44,7 @@ public class JRadioButtonDemo extends JFrame {
 			if (button == maleRadioButton) {
 				JOptionPane.showMessageDialog(null, "Male Selected!");
 			} else if (button == femaleRadioButton) {
-				JOptionPane.showMessageDialog(null, "Male Selected!");
+				JOptionPane.showMessageDialog(null, "Female Selected!");
 			}
 		}
 	}

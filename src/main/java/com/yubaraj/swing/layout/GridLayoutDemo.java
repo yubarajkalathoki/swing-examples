@@ -20,6 +20,8 @@ public class GridLayoutDemo {
 		frame.add(new Button("7"));
 		frame.add(new Button("8"));
 		frame.add(new Button("9"));
+		
+		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 	}
 
