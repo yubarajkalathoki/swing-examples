@@ -62,11 +62,7 @@ public class JTableDemo extends JPanel {
 			}
 			
 		};
-//		table.isro
-//		table.prepareRenderer(renderer, row, column)
-//		table.setFillsViewportHeight(true);
 		table.setPreferredScrollableViewportSize(new Dimension(350, 280));
-		
 		JScrollPane jsp = new JScrollPane(table);
 		
 		add(jsp);
